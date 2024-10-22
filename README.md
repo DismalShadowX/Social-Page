@@ -1,5 +1,5 @@
-# rolle.social
+# everythingbagel.social
 
 A cute card-like page of my socials.
 
-![rolle social_](https://github.com/ronilaukkarinen/rolle.social/assets/1534150/7bf62c42-41b5-4895-917d-1c7a60477e73)
+![everythingbagel.social](https://github.com/DismalShadowX/Social-Page/blob/14dfa84a661b8f3a0ed2a0ca8d940ee5ebde96b6/screenshot.png)
